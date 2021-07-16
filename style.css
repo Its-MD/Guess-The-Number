@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to right, #3A1C71, #D76D77, #FFAF7B);
+    height: 100vh;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    background-color: #FBFBFB;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    border-radius: 5px;
+}
